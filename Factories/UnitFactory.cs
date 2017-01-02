@@ -112,7 +112,8 @@ namespace BotFactory.Factories
                     return;
             }
         }
-
+        
+        
         /// <summary>
         /// Fonction Asynchrone renvoyant TRUE or FALSE,
         /// elle instancie le 1er robot ajouté à la QUEUE, elle "construit" le robot durant X secondes
